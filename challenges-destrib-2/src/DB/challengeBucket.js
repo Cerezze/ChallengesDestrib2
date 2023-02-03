@@ -22,5 +22,17 @@ export let challengeBucket = [
     {
         id: 6,
         taskName:'task6'
+    },
+    {
+        id: 7,
+        taskName:'task7'
+    },
+    {
+        id: 8,
+        taskName:'task8'
+    },
+    {
+        id: 9,
+        taskName:'task9'
     }
 ];
